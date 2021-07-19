@@ -8,12 +8,10 @@ I am a software engineer.
 
 
 
+🧑‍💻 Technologies
 
-
-
-
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="30px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30px">
 
 
 <!--
