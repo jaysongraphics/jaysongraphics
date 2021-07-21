@@ -17,20 +17,22 @@
 </p>
 
 ---
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a software engineer.
 
 
 ---
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies***
 
-🧑‍💻 Technologies
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="30px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30px"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" width="30px"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg" width="30px"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cs6.svg" width="30px"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30px">
 
 --- 
-🤙 Get in touch
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Get in touch***
+
 
   <a href="https://www.linkedin.com/in/edwardjarias/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Edward's LinkedIn Profile" height="25" width="25">
@@ -79,6 +81,10 @@ Here are some ideas to get you started:
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Edward! 
+🧑‍💻 Technologies
+
+🤙 Get in touch
+
 
 views
 ![](https://komarev.com/ghpvc/?username=jaysongraphics&color=blue)
