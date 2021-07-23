@@ -45,6 +45,11 @@ I am a software engineer.
  
 ---
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysongraphics&layout=compact&true&theme=dark)](https://github.com/jaysongraphics/github-readme-stats)
+
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysongraphics&show_icons=true&theme=tokyonight)
 
@@ -84,6 +89,9 @@ Here are some ideas to get you started:
 🧑‍💻 Technologies
 
 🤙 Get in touch
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 views
