@@ -31,18 +31,20 @@ I am a software engineer.
 
 --- 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Get in touch***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Latest blogs***
 
-
+<!-- 
   <a href="https://www.linkedin.com/in/edwardjarias/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Edward's LinkedIn Profile" height="25" width="25">
-  </a>
+  </a> -->
   
- <a href="https://medium.com/@jaysongraphics.">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Edward's Medium Profile" height="27" width="27">
-  </a>
-
+ 📰  [Blogs](https://jaysongraphics.medium.com/) 
  
+<!--  <a href="https://medium.com/@jaysongraphics.">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Edward's Medium Profile" height="27" width="27">
+  </a> 
+
+  -->
 ---
 
 
