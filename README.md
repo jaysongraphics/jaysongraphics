@@ -19,8 +19,7 @@
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a software engineer.
-
+I am Full-Stack Software Engineer with a passion for new technologies and a background in graphic design. Experience in Advertisement Operations with a demonstrated history of working in the marketing and advertising industry. Skilled in the Adobe Creative suite, DCM/CM, and experience in a variety of DSPs. 
 
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies***
