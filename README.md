@@ -51,6 +51,11 @@ I am Full-Stack Software Engineer with a passion for new technologies and a back
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysongraphics&layout=compact&true&theme=dark)](https://github.com/jaysongraphics/github-readme-stats)
 
 
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysongraphics&show_icons=true&theme=dark)
+ -->
+
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysongraphics&show_icons=true&theme=tokyonight)
 
