@@ -13,8 +13,13 @@
   <img src="https://img.shields.io/badge/Focus-Software%20Engineer-blue" />
   <img src="https://img.shields.io/badge/Lives-NYC-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-blue" />
-  
+  <img src="https://komarev.com/ghpvc/?username=jaysongraphics&style=flat-square" />
 </p>
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaysongraphics&theme=algolia"/>
+</p>
+
 
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
@@ -47,13 +52,18 @@ I am Full-Stack Software Engineer with a passion for new technologies and a back
 ---
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysongraphics&layout=compact&true&theme=dark)](https://github.com/jaysongraphics/github-readme-stats)
-
-
 <!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysongraphics&show_icons=true&theme=dark)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysongraphics&layout=compact&true&theme=dark)](https://github.com/jaysongraphics/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysongraphics&show_icons=true&theme=dark) -->
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysongraphics&layout=compact&true&theme=tokyonight"/>
+</p>
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaysongraphics&show_icons=true&theme=tokyonight"/>
+</p>
+
 
 
 <!--
