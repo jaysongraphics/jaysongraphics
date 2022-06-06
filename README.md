@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I am Edward! </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">,  I am Edward! </h1>
 <h3 align="center">Software Engineer | Graphic Designer </h3>
 <p align="center">
  
@@ -22,12 +22,12 @@
 
 
 ---
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me***
 
 I am Full-Stack Software Engineer with a passion for new technologies and a background in graphic design. Experience in Advertisement Operations with a demonstrated history of working in the marketing and advertising industry. Skilled in the Adobe Creative suite, DCM/CM, and experience in a variety of DSPs. 
 
 ---
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***Technologies***
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="30px">
@@ -35,7 +35,7 @@ I am Full-Stack Software Engineer with a passion for new technologies and a back
 
 --- 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Latest blogs***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***Latest blogs***
 
 <!-- 
   <a href="https://www.linkedin.com/in/edwardjarias/">
