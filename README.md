@@ -65,7 +65,6 @@ I am Full-Stack Software Engineer with a passion for new technologies and a back
 </p>
 
 
-
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysongraphics&show_icons=true&theme=tokyonight)
 
