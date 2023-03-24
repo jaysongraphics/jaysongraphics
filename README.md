@@ -24,7 +24,7 @@
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me***
 
-I am Full-Stack Software Engineer with a passion for new technologies and a background in graphic design. Experience in Advertisement Operations with a demonstrated history of working in the marketing and advertising industry. Skilled in the Adobe Creative suite, DCM/CM, and experience in a variety of DSPs. 
+Hello, I am a full-stack software engineer with experience in web development, advertising, and graphic design. I am skilled in modern JavaScript frameworks, HTML, CSS, React and a variety of databases. My background in advertising and graphic design brings a unique perspective to my work, ensuring that my projects are visually appealing and functional. I am committed to staying up-to-date with the latest developments in the field. I believe in clean code. I am always looking for new challenges and would love to discuss how I can help bring your project to life.
 
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***Technologies***
